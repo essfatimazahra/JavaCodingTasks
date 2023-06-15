@@ -1,4 +1,6 @@
-public class Division {
+package week01.task2;
+
+public class Fatima {
     public static double divide(double dividend, double divisor) {
 
         if (divisor == 0) {
