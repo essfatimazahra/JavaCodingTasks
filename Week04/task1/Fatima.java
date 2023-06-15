@@ -1,11 +1,6 @@
-package Week04;
+package Week04.task1;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.LinkedHashMap;
-import java.util.Map;
-
-public class Test1 {
+public class Fatima {
 
     public static String frequencyOfChars(String str) {
         String result = "";

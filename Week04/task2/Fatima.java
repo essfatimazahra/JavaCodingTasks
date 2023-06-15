@@ -1,9 +1,8 @@
-package Week04;
+package Week04.task2;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Map;
 
-public class Test2 {
+public class Fatima {
     public static boolean isSame  (String str1, String str2) {
         // Check if the lengths of the strings are equal
         if (str1.length() != str2.length()) {

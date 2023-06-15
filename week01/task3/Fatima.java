@@ -1,6 +1,6 @@
-package week01;
+package week01.task3;
 
-public class Test3 {
+public class Fatima {
     public static void Numbers() {
         for (int i = 1; i <= 30; i++) { // This loop will iterate from i = 1 to i = 30 (inclusive) and increment i by 1 after each iteration.
 

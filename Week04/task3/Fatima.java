@@ -1,8 +1,8 @@
-package Week04;
+package Week04.task3;
 
 import java.util.LinkedHashSet;
 
-public class Test3 {
+public class Fatima {
     public static String removeDuplication (String input) {
 
         // Create a LinkedHashSet to preserve the order of characters

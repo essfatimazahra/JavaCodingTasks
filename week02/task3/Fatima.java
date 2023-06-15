@@ -1,6 +1,6 @@
-package week02;
+package week02.task3;
 
-public class Test3 {
+public class Fatima {
     public static void numberReplacement(int N) {
         for (int i = 1; i <= N; i++) {
             StringBuilder output = new StringBuilder();

@@ -1,6 +1,6 @@
-package week03;
+package week03.task1;
 
-public class Test1 {
+public class Fatima {
 
     // FirstOfAll : A prime number is a natural number greater than 1 that cannot be divided evenly by any other numbers except for 1 and itself. In other words, a prime number is a number that has exactly two distinct positive divisors: 1 and the number itself.
     public static void main(String[] args) {

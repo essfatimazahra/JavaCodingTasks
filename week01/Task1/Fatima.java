@@ -1,6 +1,6 @@
-package week01;
+package week01.Task1;
 
-public class Test1 {
+public class Fatima {
     public static void main(String[] args) {
         int num = 8;
         System.out.println(OddOrEven(num));

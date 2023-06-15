@@ -1,6 +1,6 @@
-package week03;
+package week03.task2;
 
-public class Test2 {
+public class Fatima {
     public static void main(String[] args) {
         int number = -38;
         int reversedNumber = reverseDigits(number);

@@ -1,6 +1,6 @@
-package week02;
+package week02.task2;
 
-public class Test2 {
+public class Fatima {
     public static void main(String[] args) {
         System.out.println("Divisible By 15");
         for (int i = 1; i <= 100; i++) {

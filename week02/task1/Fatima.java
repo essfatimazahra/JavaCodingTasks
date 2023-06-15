@@ -1,6 +1,6 @@
-package week02;
+package week02.task1;
 
-public class Test1 {
+public class Fatima {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;
