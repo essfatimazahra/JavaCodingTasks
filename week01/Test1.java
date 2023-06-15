@@ -1,4 +1,6 @@
-public class Numbers {
+package week01;
+
+public class Test1 {
     public static void main(String[] args) {
         int num = 8;
         System.out.println(OddOrEven(num));

@@ -1,8 +1,12 @@
-public class Multiplication {
+package week01;
+
+public class Test3 {
     public static void Numbers() {
-        for (int i = 1; i <= 30; i++) {
-            if (i % 3 == 0) {
+        for (int i = 1; i <= 30; i++) { // This loop will iterate from i = 1 to i = 30 (inclusive) and increment i by 1 after each iteration.
+
+            if (i % 3 == 0) { // checks if i is divisible by 3 without a remainder
                 System.out.println("FIN");
+
             } else if (i % 5 == 0) {
                 System.out.println("RA");
             } else if ( i % 3 == 0 && i % 5 == 0) {
@@ -14,6 +18,7 @@ public class Multiplication {
     }
 
     public static void main(String[] args) {
+
         Numbers();
     }
 

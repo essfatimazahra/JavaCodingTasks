@@ -1,4 +1,6 @@
-public class Division {
+package week01;
+
+public class Test2 {
     public static double divide(double dividend, double divisor) {
 
         if (divisor == 0) {
